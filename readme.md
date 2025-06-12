@@ -2,7 +2,7 @@
 
 A sleek, modern, and customizable Übersicht widget that displays your LeetCode statistics directly on your macOS desktop. Stay motivated by keeping your progress always in sight!
 
-![LeetCode Glance Screenshot](screenshot.png)
+![LeetCode Glance Screenshot](screenshot.jpeg)
 
 <p align="center">
   <img alt="Platform" src="https://img.shields.io/badge/platform-macOS-lightgrey.svg">
