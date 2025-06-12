@@ -1,0 +1,10 @@
+{
+    "name": "leetcode-glance",
+    "author": "Jasper Hu",
+    "description": "A Übersicht widget to glance at your LeetCode stats.",
+    "repo": "https://github.com/ACTOR-ALCHEMIST/leetcode-glance",
+    "email": "hujiangyao@gmail.com",
+    "license": "MIT",
+    "screenshot": "screenshot.jpeg",  
+    "version": "1.0.0"
+  }
