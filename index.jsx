@@ -3,7 +3,8 @@
 
 // --- CONFIGURATION ---
 // Replace with your LeetCode username.
-const LEETCODE_USERNAME = "jasperhu2001";
+const LEETCODE_USERNAME = "YOUR_LEETCODE_USERNAME"; // e.g., "john_doe"
+// Make sure to replace this with your actual LeetCode username.
 
 // --- CORE LOGIC ---
 
